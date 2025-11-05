@@ -63,10 +63,10 @@ Update `config.py` to match your environment:
 ## Screenshots
 - Help command:
 
-    ![Help command](docs/screenshots/2.png)
+    ![Help command](https://github.com/JustYasser/Quran-Daily-WhatsApp-Notifier/blob/main/docs/screenshots/2.PNG?raw=true)
 - Daily reminder:
-    
-    ![Daily reminder](docs/screenshots/1.png)
+
+    ![Daily reminder](https://github.com/JustYasser/Quran-Daily-WhatsApp-Notifier/blob/main/docs/screenshots/1.PNG?raw=true)
 
 ## Notes
 - This project only mentions WPPConnect and does not explain it or its setup.
