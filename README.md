@@ -1,14 +1,13 @@
 # Quran Daily WhatsApp Notifier
 
-A simple Python bot that reminds WhatsApp group(s) every day to read the Quran, with basic customizations.
+A simple Python bot that reminds WhatsApp group every day to read the Quran, with basic customizations.
 
 ## Features
 - Daily scheduled reminders
-- Multiple group support
 - Custom message template
 - Timezone-aware scheduling
 - Optional quiet days (no reminders)
-- Simple progress/reading plan support
+- Weekly report of group members' progress
 
 ## Notice
 - You must have a WhatsApp number.
