@@ -1,0 +1,13 @@
+{
+    "send_time": [
+        16,
+        30
+    ],
+    "disabled_weekdays": [
+        5
+    ],
+    "weekday_of_report": 5,
+    "group_id": "",
+    "admins": [],
+    "my_id": ""
+}
